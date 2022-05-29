@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.excludeList": [
+
+
+
+
+        "**/node_modules/**",
+        ".vscode/**"
+    ],
+    "liveSassCompile.settings.formats": [
+        
+
+    
+        {
+            "extensionName": ".css",
+            "savePath": null
+            "format":"expanded",
+        }
+    ]
+}
